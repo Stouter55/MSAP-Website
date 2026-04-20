@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <defs>
+    <linearGradient id="suGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#cc2233"/>
+      <stop offset="100%" stop-color="#aa1122"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield shape -->
+  <path d="M150 15 L260 50 L260 120 Q260 170 150 190 Q40 170 40 120 L40 50 Z" fill="#cc2233" stroke="#8b0000" stroke-width="2"/>
+  <!-- Inner shield -->
+  <path d="M150 25 L250 55 L250 118 Q250 162 150 180 Q50 162 50 118 L50 55 Z" fill="none" stroke="white" stroke-width="2"/>
+  <!-- Star -->
+  <polygon points="150,40 158,65 185,65 163,80 172,105 150,90 128,105 137,80 115,65 142,65" fill="white"/>
+  <!-- SkillsUSA text -->
+  <text x="150" y="135" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="28" fill="white" text-anchor="middle" letter-spacing="1">SkillsUSA</text>
+  <!-- Tagline -->
+  <text x="150" y="158" font-family="Arial, sans-serif" font-weight="600" font-size="10" fill="rgba(255,255,255,0.9)" text-anchor="middle" letter-spacing="2">CHAMPIONS AT WORK</text>
+</svg>
